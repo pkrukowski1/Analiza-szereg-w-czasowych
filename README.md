@@ -1,5 +1,5 @@
 # Analiza szeregów czasowych
-W repozytorium znajdują się 4 sprawozdania dotyczące tematyki szeregów czasowych. Poruszane zagadnienia:
+W repozytorium znajdują się 4 sprawozdania dotyczące tematyki szeregów czasowych wykonane w języku R. Poruszane zagadnienia:
 - Własności asymptotyczne estymatorów średniej, autokowariancji i autokorelacji.
 - Graficzny test białoszumowości.
 - Transformacja potęgowe i różnicowanie.
